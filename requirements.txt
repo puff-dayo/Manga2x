@@ -1,0 +1,4 @@
+pillow~=11.0.0
+tqdm~=4.67.1
+tkinterdnd2~=0.4.2
+ttkbootstrap~=1.10.1
