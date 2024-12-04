@@ -17,7 +17,7 @@ _Manga2x GUI_ is a graphical user interface (GUI) application designed with [Tcl
 
    ```bash
    git clone https://github.com/puff-dayo/Manga2x.git
-   cd manga2x-gui
+   cd Manga2x
    ```
 
 Install dependencies:
